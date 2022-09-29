@@ -2,7 +2,7 @@
 
 Bug report: devkim1102@gmail.com
 
-![figure](./multihead_training.jpg)
+![figure](./figure/multihead_training.jpg)
 
 ## Usage example
 
